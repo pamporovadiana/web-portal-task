@@ -1,0 +1,11 @@
+td:nth-child(4n) {
+  color: transparent;
+}
+
+#dt-length-0 {
+  margin-right: 10px;
+}
+
+#dt-length-0 + label {
+  text-transform: capitalize;
+}
